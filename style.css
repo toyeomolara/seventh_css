@@ -15,7 +15,10 @@ table {
   background-color: rgb(199, 199, 205);
 }
 
-
+p{
+  padding-left: -10px;
+  margin-left: -20px;
+}
   table.ex1 {
       empty-cells: hide;
      width: 100%;
