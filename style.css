@@ -9,16 +9,17 @@
 
 table {
   border-spacing: 100px 50px;
+  margin: 0;
+  padding: 0;
 }
 
 
   table.ex1 {
       empty-cells: hide;
-      width: 1500px;
-      height:1500px;
+     width: 100%;
      background-color: rgb(199, 199, 205);
      justify-content: center;
-     margin: 100px;
+    
          
     }
     
